@@ -29,8 +29,11 @@ of those would be the ideal company for me to work at.
 
 - - - -
 ## On the Development Page
+This section description coming soon
 - - - -
 ## On the Design Page
+This section description coming soon
+
 - - - -
 ## On the Resume Page
 I've included everything from how to contact me to what my extra curricular activities in college were. The pieces that I believe are the
