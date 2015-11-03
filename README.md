@@ -22,19 +22,33 @@ stack development languages. I've been continuing the learning process via [Lynd
 to learn as much as I can while searching for a career in Software Engineering.
 
 - - - -
+
 ## What I'm looking for
 I'm looking for a career with a company that allows and encourages growth and learning as developer. I am looking for the culture of
 collaboration and the need to learn from coworkers. I love learning and I love working on a team. So a company that can give me both
 of those would be the ideal company for me to work at.
 
 - - - -
+
 ## On the Development Page
-This section description coming soon
-- - - -
-## On the Design Page
-This section description coming soon
+When you visit the Development page, you will see the three projects I had the most fun doing, and learned the most while in the process of finishing.
+These include my
+* Personal project - the Rocket Resource Application
+* My group project - DocentEDU
+* One of the first group projects we completed at Prime Digital Academy - The Fruit Stand
 
 - - - -
+
+## On the Design Page
+When the Design page is viewed, you will see four categories that contain my design pieces from my Advertising amd Graphic Communications degree.
+The Categories
+* Branding
+* Client Campaigns
+* Illustrations
+* Video Editing
+
+- - - -
+
 ## On the Resume Page
 I've included everything from how to contact me to what my extra curricular activities in college were. The pieces that I believe are the
 most important are
