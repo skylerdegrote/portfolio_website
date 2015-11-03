@@ -56,7 +56,6 @@ footer {
     height: 230px;
     margin: 0;
     padding: 10px;
-    position: fixed;
     width: 100%;
 }
 
@@ -72,21 +71,21 @@ footer {
 
 #github {
     position: absolute;
-    top: -50px;
+    bottom: 120px;
     right: 380px;
     background-image: url("../images/logos/fall_githublogo.png");
 }
 
 #linkedin {
     position: absolute;
-    top: -50px;
+    bottom: 120px;
     right: 240px;
     background-image: url("../images/logos/fall_linkedinlogo.png");
 }
 
 #twitter {
     position: absolute;
-    top: -50px;
+    bottom: 120px;
     right: 100px;
     background-image: url("../images/logos/fall_twitterlogo.png");
 }
