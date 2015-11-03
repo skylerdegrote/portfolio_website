@@ -1,6 +1,7 @@
 /* associated to the index.html page */
 body {
     background-color: #bdc1c1;
+    overflow: scroll;
 }
 
 h1 {
@@ -11,18 +12,23 @@ h1 {
 }
 
 h3#name {
-    position: absolute;
-    top: -42px;
+    position: relative;
+    top: 45px;
     left: 50px;
     color: #691814;
     font-weight: bolder;
+
 }
 
 h4 a{
     color: #bdc1c1;
     font-size: 20px;
     float: left;
-    margin: 50px;
+    margin-right: 100px;
+}
+
+h4 a:first-child {
+    margin-left: 50px;
 }
 
 h4 a:hover, h4 a:active {
@@ -38,26 +44,41 @@ h6 {
 }
 
 footer {
+    height: 50px;
     background-color: #691814;
-    min-height: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #bdc1c1;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
 }
 
+header {
+    background-color: #691814;
+    height: 100px;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
 
 #top {
     background-color: #bdc1c1;
     min-height: 400px;
     max-height: 550px;
-    margin: 0;
-    padding: 0;
+    padding-top: 70px;
 }
 
-#navbar {
-    background-color: #691814;
-    height: 230px;
-    margin: 0;
-    padding: 10px;
-    width: 100%;
-}
+/*#navbar {*/
+    /*background-color: #691814;*/
+    /*height: 230px;*/
+    /*margin: 0;*/
+    /*padding: 10px;*/
+    /*width: 100%;*/
+/*}*/
 
 #github, #linkedin, #twitter {
     background-color: #691814;
@@ -70,22 +91,23 @@ footer {
 }
 
 #github {
-    position: absolute;
-    bottom: 120px;
+    top: 50px;
+    position: fixed;
+
     right: 380px;
     background-image: url("../images/logos/fall_githublogo.png");
 }
 
 #linkedin {
-    position: absolute;
-    bottom: 120px;
+    position: fixed;
+    top: 50px;
     right: 240px;
     background-image: url("../images/logos/fall_linkedinlogo.png");
 }
 
 #twitter {
-    position: absolute;
-    bottom: 120px;
+    position: fixed;
+    top: 50px;
     right: 100px;
     background-image: url("../images/logos/fall_twitterlogo.png");
 }
