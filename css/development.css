@@ -1,6 +1,7 @@
 /* associated to the development.html page */
 
 
+
 #devportfolio {
     margin-top: 250px;
     margin-bottom: 100px;
@@ -126,4 +127,42 @@
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
+}
+
+#rockyHomePage, #rockyAboutPage, #rockyServicesPage, #rockyClientsPage, #rockyContactPage, #rockyCareersPage {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 440px;
+    display: block;
+    clear: both;
+    margin-left:25px;
+}
+
+#rockyHomePage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_HomePageDevices.png");
+}
+
+#rockyAboutPage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_AboutPageDevices.png");
+}
+
+#rockyCareersPage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_CareersPageDevices.png");
+}
+
+#rockyClientsPage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_ClientPageDevices.png");
+}
+
+#rockyContactPage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_ContactPageDevices.png");
+}
+
+#rockyServicesPage {
+    background-image: url("../images/wireframes/rockyBits/devices/devices_ServicesPageDevices.png");
+}
+
+.modalText {
+    display: block;
+    clear: both;
 }
