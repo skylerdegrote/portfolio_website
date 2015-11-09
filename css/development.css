@@ -122,10 +122,10 @@
 }
 
 #wireframeImage {
-    background-image: url("../images/wireframes/rockyBits/homePage.png");
-    min-height: 280px;
+    background-image: url("../images/wireframes/rockyBits/wireframe_placeholders_both.png");
+    min-height: 270px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     overflow: hidden;
 }
 
