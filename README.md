@@ -35,7 +35,7 @@ When you visit the Development page, you will see the three projects I had the m
 These include my
 * Personal project - the Rocket Resource Application
 * My group project - DocentEDU
-* One of the first group projects we completed at Prime Digital Academy - The Fruit Stand
+* Wire-frames for websites that I helped design. Right now, this includes [RockyBits Software](http://www.rockybits.com)
 
 - - - -
 
