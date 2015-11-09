@@ -110,3 +110,12 @@
     display: inline-block;
     padding-bottom: 20px;
 }
+
+#rockyBitsWireframe h4{
+    clear: both;
+    padding-top: 30px;
+}
+
+.wireframeDescription {
+    max-width: 540px;
+}
